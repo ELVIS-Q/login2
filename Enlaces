@@ -1,0 +1,11 @@
+ Proyecto: Sistema de Login en Angular
+Taller N°2 - Desarrollo de Aplicaciones Híbridas**
+ Video explicativo
+https://drive.google.com/file/d/1CbhV0UTfMlm7rXmWW2hqfoPQFGWL8ml2/view?usp=sharing
+ Repositorio en GitHub
+ [https://github.com/ELVIS-Q/login2](https://github.com/ELVIS-Q/login2)
+
+ Descripción del Proyecto
+Este proyecto implementa un sistema de **login y registro** en Angular,
+con autenticación utilizando la API `reqres.in`.
+
